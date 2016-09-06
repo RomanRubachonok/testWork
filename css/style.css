@@ -1,0 +1,26 @@
+/* General styling */
+
+html {
+	background: #ccc;
+}
+
+body {
+	background: white;
+	width: 50%;
+	min-width: 540px;
+	margin: 0 auto;
+	padding: 20px;
+	min-height: 500px;
+}
+
+h1 {
+  margin: 0;
+}
+
+input[type="text"] {
+	margin-left: 1em;
+}
+
+form + button {
+    margin-bottom: 15px;
+}

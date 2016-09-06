@@ -1,0 +1,7 @@
+{  
+  "name": "Test Work",
+  "short_name": "Test Work",
+  "start_url": "/index.html",  
+  "display": "standalone",  
+  "gcm_sender_id": "658273717107"
+}
