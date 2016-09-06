@@ -67,7 +67,7 @@ function renderStrInt(num){
 
     while(count <= num){
 
-        if(!(count % 2) || !(count % 2)){
+        if(!(count % 2) || !(count % 3)){
             if( !(count % 2) ){
                 str += "foo";
             }
